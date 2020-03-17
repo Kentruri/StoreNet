@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AlexanderM1927/StoreNet/issues"
   },
-  "homepage": "https://github.com/AlexanderM1927/StoreNet#readme"
+  "homepage": "https://github.com/AlexanderM1927/StoreNet#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
